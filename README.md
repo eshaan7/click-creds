@@ -2,7 +2,7 @@
 
 [![pypi](https://img.shields.io/pypi/v/click-creds)](https://pypi.org/project/click-creds/)
 [![Build Status](https://github.com/Eshaan7/click-creds/workflows/Linter%20&%20Tests/badge.svg?branch=main)](https://github.com/Eshaan7/click-creds/actions?query=workflow%3A%22Linter+%26+Tests%22)
-[![codecov](https://codecov.io/gh/Eshaan7/click-creds/branch/main/graph/badge.svg?token=bh4tGXy8dK)](https://codecov.io/gh/Eshaan7/click-creds)
+[![codecov](https://codecov.io/gh/Eshaan7/click-creds/branch/main/graph/badge.svg?token=AeUhwwnaRW)](https://codecov.io/gh/Eshaan7/click-creds)
 [![CodeFactor](https://www.codefactor.io/repository/github/eshaan7/click-creds/badge)](https://www.codefactor.io/repository/github/eshaan7/click-creds)
 <a href="https://lgtm.com/projects/g/Eshaan7/click-creds/context:python">
   <img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/Eshaan7/click-creds.svg?logo=lgtm&logoWidth=18"/>
