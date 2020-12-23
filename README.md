@@ -29,7 +29,7 @@ import click
 import click_creds
 
 @click.group(context_settings=dict(help_option_names=["-h", "--help"]))
-@click_creds.use_netrccreds(
+@click_creds.use_netrcstore(
     name="myawesomeapp",
     mapping={"login": "username", "password": "api_key", "account": "url"},
 )
