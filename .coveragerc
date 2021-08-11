@@ -1,6 +1,6 @@
 [run]
 branch = True
-source = click-creds
+source = click_creds
 omit = 
     example_project/*
 
