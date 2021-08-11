@@ -15,6 +15,8 @@ Uses [`~/.netrc` file method](https://www.mkssoftware.com/docs/man4/netrc.4.asp)
 
 ## Installation
 
+Requires python version `>=3.6`.
+
 ```bash
 $ pip install click-creds
 ```
@@ -59,6 +61,10 @@ Commands:
   get  Echo config variables
   set  Update config variables
 ```
+
+## Documentation
+
+Please see the [`example_project`](https://github.com/Eshaan7/click-creds/tree/main/example_project).
 
 
 ## Changelog / Releases
