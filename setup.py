@@ -17,10 +17,7 @@ VERSION = (HERE / "version.txt").read_text()
 
 GITHUB_URL = "https://github.com/eshaan7/click-creds"
 
-requirements = [
-    "click==7.1.2",
-    "tinynetrc==1.3.0",
-]
+requirements = (HERE / "requirements.txt").read_text().split("\n")
 
 requirements_test = (HERE / "requirements.dev.txt").read_text().split("\n")
 
@@ -63,6 +60,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     # List additional groups of dependencies here (e.g. development
