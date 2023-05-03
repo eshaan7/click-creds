@@ -1,4 +1,5 @@
 import pathlib
+
 from tinynetrc import Netrc as _TinyNetrc
 
 from .defaults import DEFAULT_MAPPING

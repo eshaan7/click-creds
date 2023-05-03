@@ -5,6 +5,7 @@ Pluggable credentials storage and management for click CLI apps.
 """
 
 import pathlib
+
 from setuptools import setup
 
 # The directory containing this file

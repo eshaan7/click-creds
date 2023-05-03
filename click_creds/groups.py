@@ -1,5 +1,6 @@
-import click
 from typing import List
+
+import click
 
 from .classes import NetrcStore
 from .decorators import pass_netrcstore_obj

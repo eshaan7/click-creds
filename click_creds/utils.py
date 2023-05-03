@@ -1,4 +1,5 @@
 import threading
+
 import click
 
 from .defaults import MODULE_KEY
