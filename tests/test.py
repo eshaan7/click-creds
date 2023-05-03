@@ -1,5 +1,6 @@
 # system imports
 from unittest import TestCase
+
 from click.testing import CliRunner
 
 # lib imports

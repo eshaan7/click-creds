@@ -1,5 +1,6 @@
-import click
 from functools import update_wrapper
+
+import click
 
 from .classes import NetrcStore
 from .defaults import DEFAULT_MAPPING, MODULE_KEY

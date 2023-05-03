@@ -8,6 +8,6 @@
 """
 
 from .classes import NetrcStore
-from .decorators import use_netrcstore, pass_netrcstore_obj
+from .decorators import pass_netrcstore_obj, use_netrcstore
 from .groups import config_group
 from .utils import get_netrc_object_from_ctx
